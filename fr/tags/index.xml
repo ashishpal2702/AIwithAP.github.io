@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ashish Pal|Data Scientist</title>
-    <link>https://ashishpal2702@github.io/fr/tags/</link>
+    <link>https://aashishpal.com/fr/tags/</link>
     <description>Recent content in Tags on Ashish Pal|Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://ashishpal2702@github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://aashishpal.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
