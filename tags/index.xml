@@ -1,73 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Somrat | Hugo Portfolio Template</title>
-    <link>https://github.com/ashishpal2702/tags/</link>
-    <description>Recent content in Tags on Somrat | Hugo Portfolio Template</description>
+    <title>Tags on Ashish Pal|Data Scientist</title>
+    <link>https://ashishpal2702@github.io/tags/</link>
+    <description>Recent content in Tags on Ashish Pal|Data Scientist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://github.com/ashishpal2702/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://ashishpal2702@github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>access</title>
-      <link>https://github.com/ashishpal2702/tags/access/</link>
+      <link>https://ashishpal2702@github.io/tags/access/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/access/</guid>
+      <guid>https://ashishpal2702@github.io/tags/access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>art</title>
-      <link>https://github.com/ashishpal2702/tags/art/</link>
+      <link>https://ashishpal2702@github.io/tags/art/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/art/</guid>
+      <guid>https://ashishpal2702@github.io/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>database</title>
-      <link>https://github.com/ashishpal2702/tags/database/</link>
+      <link>https://ashishpal2702@github.io/tags/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/database/</guid>
+      <guid>https://ashishpal2702@github.io/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://github.com/ashishpal2702/tags/design/</link>
+      <link>https://ashishpal2702@github.io/tags/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/design/</guid>
+      <guid>https://ashishpal2702@github.io/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://github.com/ashishpal2702/tags/development/</link>
+      <link>https://ashishpal2702@github.io/tags/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/development/</guid>
+      <guid>https://ashishpal2702@github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://github.com/ashishpal2702/tags/sketch/</link>
+      <link>https://ashishpal2702@github.io/tags/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/sketch/</guid>
+      <guid>https://ashishpal2702@github.io/tags/sketch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>https://github.com/ashishpal2702/tags/web/</link>
+      <link>https://ashishpal2702@github.io/tags/web/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://github.com/ashishpal2702/tags/web/</guid>
+      <guid>https://ashishpal2702@github.io/tags/web/</guid>
       <description></description>
     </item>
     

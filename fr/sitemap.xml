@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/ashishpal2702/fr/categories/</loc>
+    <loc>https://ashishpal2702@github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/ashishpal2702/categories/"
+                href="https://ashishpal2702@github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/ashishpal2702/fr/categories/"
+                href="https://ashishpal2702@github.io/fr/"
                 />
   </url><url>
-    <loc>https://github.com/ashishpal2702/fr/</loc>
+    <loc>https://ashishpal2702@github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/ashishpal2702/"
+                href="https://ashishpal2702@github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/ashishpal2702/fr/"
+                href="https://ashishpal2702@github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://github.com/ashishpal2702/fr/tags/</loc>
+    <loc>https://ashishpal2702@github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/ashishpal2702/tags/"
+                href="https://ashishpal2702@github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://github.com/ashishpal2702/fr/tags/"
+                href="https://ashishpal2702@github.io/fr/tags/"
                 />
   </url>
 </urlset>
